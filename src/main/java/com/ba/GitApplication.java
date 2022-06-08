@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GitApplication {
-    //123123
+    //master
     public static void main(String[] args) {
         SpringApplication.run(GitApplication.class, args);
     }
